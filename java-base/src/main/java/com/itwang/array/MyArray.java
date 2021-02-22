@@ -40,6 +40,10 @@ public class MyArray {
         int[][] arr4 = {{3,8,2},{1,1,1,}};
 
         randomMax();
+
+        //数组中的常见异常
+        //数组下标越界异常
+        //空指针异常
     }
 
     static void BubbleSort(int[] a){
